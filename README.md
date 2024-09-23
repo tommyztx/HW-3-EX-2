@@ -87,11 +87,11 @@ Navigate to your project.
 
 1. Go toSettings. If youdo not see the button, then in the top-right click to open the menu.
 2. In the menu, click Settings to access the project settings.
-3. On the left choose Collaborators and Teams
+3. On the left choose Collaborators
 4. Click Manage access.
 5. Cleci the Add Members button
-6. Add Matthew with the "Maintain" option using his email *****@tamu.edu
-7. Check that adding the TA to your project was successful. For instance, a notification "*****@tamu.edu has been added as a collaborator with maintain permissions on the repository" should appear on the top of your screen. Your can also see that the invite is pending Matthew's acceptance in the "Manage Access" section of Settings. 
+6. Add Matthew with his email *****@tamu.edu
+7. Check that adding the TA to your project was successful.  If it was, you should see that the invite is pending Matthew's acceptance in the "Manage Access" section of Settings. 
 
 ## Resources:
 Git Cheat Sheet: https://education.github.com/git-cheat-sheet-education.pdf  
