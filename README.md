@@ -91,7 +91,7 @@ Navigate to your project.
 4. Click Manage access.
 5. Cleci the Add Members button
 6. Add Matthew with his email *****@tamu.edu
-7. Check that adding the TA to your project was successful.  If it was, you should see that the invite is pending Matthew's acceptance in the "Manage Access" section of Settings. 
+7. Check that adding the TA to your project was successful.  You should be able to see that the invite is pending Matthew's acceptance in the "Manage Access" section of Settings. 
 
 ## Resources:
 Git Cheat Sheet: https://education.github.com/git-cheat-sheet-education.pdf  
